@@ -4,9 +4,9 @@ How is a business performing across sales, profits, customers and regions?
 This project uses Power BI to explore Superstore sales data from 2014 to 2017. Through interactive dashboards, it examines business growth, product category performance, customer contributions and regional sales comparisons.
 ## Dashboard Preview
 ### Sales Performance Dashboard
-![Superstore Sales Dashboard](Images/Superstore_Sales_Analysis.png)
+![Superstore Sales Dashboard](Superstore_Sales_Analysis.png)
 ### Regional Manager Comparison
-![Regional Manager Dashboard](Images/Superstore_Regional_Manager.png)
+![Regional Manager Dashboard](Superstore_Regional_Manager.png)
 ## Business Performance at a Glance
 | Key Metric | Performance |
 |---|---:|
